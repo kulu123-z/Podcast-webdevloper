@@ -1,0 +1,21 @@
+1)Syntax - It is hoisted by full stack devloper.They dive into deep web devlopment topic and say it work.
+https://syntax.fm/
+
+2)React Podcast
+https://reactjs.org/community/podcasts.html
+
+3)Front End Happy Hour
+https://frontendhappyhour.com/
+
+4)JavaScript Jabber
+https://devchat.tv/podcasts/js-jabber/
+
+5)The ShopTalk Show
+https://shoptalkshow.com/
+
+6)Full Stack Radio
+https://www.fullstackradio.com/
+
+Bonus
+https://devchat.tv/
+
